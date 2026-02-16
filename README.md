@@ -1,4 +1,4 @@
-Alright — I’ll give you a **serious, research-grade `README.md`** that matches the depth of your theory + Silent Alpha Death framework.
+
 
 
 # 1. Overview
